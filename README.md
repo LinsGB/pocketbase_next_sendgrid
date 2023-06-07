@@ -1,2 +1,2 @@
 # pocketbase_next_sendgrid
-Test aplication with pocket base, next13 and sendgrid
+This project is an example of nextJs 13 with pocketbase and sendgrid
